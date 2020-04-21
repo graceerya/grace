@@ -1,0 +1,72 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2013 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Dunwich Type Founders
+ * License URL: http://www.fontspring.com/fflicense/dunwich-type-founders
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'Lorimer No 2';
+    src: url('Lorimer_No2_Cnd_Medium-webfont.eot?3');
+    src: url('Lorimer_No2_Cnd_Medium-webfont.eot?3?#iefix') format('embedded-opentype'),
+         url('Lorimer_No2_Cnd_Medium-webfont.woff?3') format('woff'),
+         url('Lorimer_No2_Cnd_Medium-webfont.ttf?3') format('truetype'),
+         url('Lorimer_No2_Cnd_Medium-webfont.svg?3#lorimer_no_2_condensedmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Lorimer No 2';
+    src: url('Lorimer_No2_Semibold-webfont.eot?3');
+    src: url('Lorimer_No2_Semibold-webfont.eot?3?#iefix') format('embedded-opentype'),
+         url('Lorimer_No2_Semibold-webfont.woff?3') format('woff'),
+         url('Lorimer_No2_Semibold-webfont.ttf?3') format('truetype'),
+         url('Lorimer_No2_Semibold-webfont.svg?3#lorimer_no_2semibold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Lorimer No 2';
+    src: url('Lorimer_No2_Cnd_Medium_Italic-webfont.eot?3');
+    src: url('Lorimer_No2_Cnd_Medium_Italic-webfont.eot?3?#iefix') format('embedded-opentype'),
+         url('Lorimer_No2_Cnd_Medium_Italic-webfont.woff?3') format('woff'),
+         url('Lorimer_No2_Cnd_Medium_Italic-webfont.ttf?3') format('truetype'),
+         url('Lorimer_No2_Cnd_Medium_Italic-webfont.svg?3#lorimer_no_2_condensedMdIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Lorimer No 2';
+    src: url('Lorimer_No2_Semibold_Italic-webfont.eot?3');
+    src: url('Lorimer_No2_Semibold_Italic-webfont.eot?3?#iefix') format('embedded-opentype'),
+         url('Lorimer_No2_Semibold_Italic-webfont.woff?3') format('woff'),
+         url('Lorimer_No2_Semibold_Italic-webfont.ttf?3') format('truetype'),
+         url('Lorimer_No2_Semibold_Italic-webfont.svg?3#lorimer_no_2semibold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}

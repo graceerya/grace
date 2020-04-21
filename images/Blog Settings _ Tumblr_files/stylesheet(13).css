@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Favorit';
+    src: url('FavoritTumblr-85.eot');
+    src: url('FavoritTumblr-85.eot?#iefix') format('embedded-opentype'),
+         url('FavoritTumblr-85.woff') format('woff'),
+         url('FavoritTumblr-85.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Favorit';
+    src: url('FavoritTumblr-Medium.eot');
+    src: url('FavoritTumblr-Medium.eot?#iefix') format('embedded-opentype'),
+         url('FavoritTumblr-Medium.woff') format('woff'),
+         url('FavoritTumblr-Medium.ttf') format('truetype');
+    font-weight: bold;
+    font-style: bold;
+}
